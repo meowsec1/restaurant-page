@@ -1,7 +1,6 @@
 import michelinImg from './michelin.jpg';
 
 export function homePageContents() {
-        console.log("Hello js!");
 
         const divContent = document.querySelector("#content");
 

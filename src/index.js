@@ -2,6 +2,8 @@ import { homePageContents } from "./homePage";
 import { menuPageContents } from "./menuPage";
 import { contactPageContents } from "./contactPage";
 
+import './style.css';
+
 const divContent = document.querySelector("#content");
 
 const home = document.querySelector(".home");
